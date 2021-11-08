@@ -1,3 +1,4 @@
+# Comprobación de si el nombre comienza con X
 import os
 import sys
 
